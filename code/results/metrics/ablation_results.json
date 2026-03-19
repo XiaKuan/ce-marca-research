@@ -1,0 +1,642 @@
+{
+  "CE-MARCA (Full)": [
+    {
+      "correct": true,
+      "confidence": 0.8588305630541871,
+      "predicted": "recommendation",
+      "true": "recommendation",
+      "time": 2.5510787963867188e-05
+    },
+    {
+      "correct": false,
+      "confidence": 0.8236002528999217,
+      "predicted": "catalogue",
+      "true": "cart",
+      "time": 1.0251998901367188e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.8935424268517755,
+      "predicted": "cart",
+      "true": "cart",
+      "time": 1.0967254638671875e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.858606119777254,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 1.0251998901367188e-05
+    },
+    {
+      "correct": false,
+      "confidence": 0.8349956518767582,
+      "predicted": "checkout",
+      "true": "currency",
+      "time": 1.0251998901367188e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.8463579001308271,
+      "predicted": "product-page",
+      "true": "product-page",
+      "time": 6.9141387939453125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8464956838443096,
+      "predicted": "front-end",
+      "true": "orders",
+      "time": 7.867813110351562e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.95,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 8.821487426757812e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8204231302484094,
+      "predicted": "payment",
+      "true": "orders",
+      "time": 1.52587890625e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.8924062088261746,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 8.58306884765625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.9262143505992053,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 6.4373016357421875e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.95,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 9.298324584960938e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.9103781860201002,
+      "predicted": "orders",
+      "true": "orders",
+      "time": 9.775161743164062e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8759780170378477,
+      "predicted": "reviews",
+      "true": "reviews",
+      "time": 6.9141387939453125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.95,
+      "predicted": "shipping",
+      "true": "currency",
+      "time": 1.049041748046875e-05
+    },
+    {
+      "correct": false,
+      "confidence": 0.9007331692987954,
+      "predicted": "recommendation",
+      "true": "payment",
+      "time": 1.0967254638671875e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.8701315435592817,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 1.430511474609375e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.8884203387970777,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 1.2159347534179688e-05
+    }
+  ],
+  "CE-MARCA (-Causal)": [
+    {
+      "correct": false,
+      "confidence": 0.709597952629473,
+      "predicted": "payment",
+      "true": "recommendation",
+      "time": 1.9550323486328125e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.725124815438042,
+      "predicted": "cart",
+      "true": "cart",
+      "time": 1.3589859008789062e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.756660715540906,
+      "predicted": "cart",
+      "true": "cart",
+      "time": 2.0265579223632812e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.7291168038449469,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 8.821487426757812e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7240568854928174,
+      "predicted": "payment",
+      "true": "currency",
+      "time": 9.059906005859375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.7465267575433409,
+      "predicted": "product-page",
+      "true": "product-page",
+      "time": 5.7220458984375e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7161706142555333,
+      "predicted": "cart",
+      "true": "orders",
+      "time": 8.106231689453125e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8329382213701493,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 8.106231689453125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7019034886534293,
+      "predicted": "front-end",
+      "true": "orders",
+      "time": 1.0251998901367188e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.7392917207515821,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 7.867813110351562e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8072163339007464,
+      "predicted": "ratings",
+      "true": "mongodb",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.85,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 8.344650268554688e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.748205906858555,
+      "predicted": "orders",
+      "true": "orders",
+      "time": 7.62939453125e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.7369547065125266,
+      "predicted": "reviews",
+      "true": "reviews",
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8161998109782318,
+      "predicted": "shipping",
+      "true": "currency",
+      "time": 9.059906005859375e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7542164806786702,
+      "predicted": "product-catalog",
+      "true": "payment",
+      "time": 9.059906005859375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.746421274542084,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 7.867813110351562e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.7894247790589434,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 7.3909759521484375e-06
+    }
+  ],
+  "CE-MARCA (-MultiAgent)": [
+    {
+      "correct": false,
+      "confidence": 0.8472662841354708,
+      "predicted": "currency",
+      "true": "recommendation",
+      "time": 8.106231689453125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7978874485763324,
+      "predicted": "catalogue",
+      "true": "cart",
+      "time": 5.4836273193359375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.88,
+      "predicted": "cart",
+      "true": "cart",
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8451373790274224,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8074760383911083,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 6.9141387939453125e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8242956526191714,
+      "predicted": "product-page",
+      "true": "product-page",
+      "time": 4.291534423828125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8279906814742737,
+      "predicted": "shipping",
+      "true": "orders",
+      "time": 2.3365020751953125e-05
+    },
+    {
+      "correct": false,
+      "confidence": 0.8231004036398047,
+      "predicted": "product-catalog",
+      "true": "frontend",
+      "time": 1.0728836059570312e-05
+    },
+    {
+      "correct": false,
+      "confidence": 0.7987838758269512,
+      "predicted": "front-end",
+      "true": "orders",
+      "time": 9.059906005859375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.88,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 8.58306884765625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.88,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 7.152557373046875e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7967573764497718,
+      "predicted": "redis",
+      "true": "frontend",
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.88,
+      "predicted": "orders",
+      "true": "orders",
+      "time": 6.4373016357421875e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8674855724392135,
+      "predicted": "reviews",
+      "true": "reviews",
+      "time": 4.291534423828125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8418446059898828,
+      "predicted": "recommendation",
+      "true": "currency",
+      "time": 5.4836273193359375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.88,
+      "predicted": "payment",
+      "true": "payment",
+      "time": 6.198883056640625e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8589183543269595,
+      "predicted": "user",
+      "true": "mongodb",
+      "time": 8.821487426757812e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.88,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 5.4836273193359375e-06
+    }
+  ],
+  "CE-MARCA (-Dynamic)": [
+    {
+      "correct": true,
+      "confidence": 0.8290442360434132,
+      "predicted": "recommendation",
+      "true": "recommendation",
+      "time": 8.106231689453125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7951179079260419,
+      "predicted": "catalogue",
+      "true": "cart",
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8618526874952964,
+      "predicted": "cart",
+      "true": "cart",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8283212409978378,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8043082816388382,
+      "predicted": "checkout",
+      "true": "currency",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8154998077905904,
+      "predicted": "product-page",
+      "true": "product-page",
+      "time": 4.76837158203125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8166108033705137,
+      "predicted": "front-end",
+      "true": "orders",
+      "time": 5.4836273193359375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.9,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 6.4373016357421875e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.7935528397380489,
+      "predicted": "front-end",
+      "true": "orders",
+      "time": 5.7220458984375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8593378842718957,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8911701051043079,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 4.5299530029296875e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.9,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 6.198883056640625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8786090546529529,
+      "predicted": "orders",
+      "true": "orders",
+      "time": 5.4836273193359375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.844491344258614,
+      "predicted": "reviews",
+      "true": "reviews",
+      "time": 5.0067901611328125e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.9,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 7.152557373046875e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.867225850780881,
+      "predicted": "payment",
+      "true": "payment",
+      "time": 6.4373016357421875e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8387571207029942,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 5.9604644775390625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.857660240589271,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 5.9604644775390625e-06
+    }
+  ],
+  "CE-MARCA (-Diversity)": [
+    {
+      "correct": true,
+      "confidence": 0.8588305630541871,
+      "predicted": "recommendation",
+      "true": "recommendation",
+      "time": 8.106231689453125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8236002528999217,
+      "predicted": "shipping",
+      "true": "cart",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8935424268517755,
+      "predicted": "cart",
+      "true": "cart",
+      "time": 6.9141387939453125e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.858606119777254,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8349956518767582,
+      "predicted": "checkout",
+      "true": "currency",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8463579001308271,
+      "predicted": "product-page",
+      "true": "product-page",
+      "time": 4.76837158203125e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8464956838443096,
+      "predicted": "cart",
+      "true": "orders",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.92,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 6.67572021484375e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8204231302484094,
+      "predicted": "front-end",
+      "true": "orders",
+      "time": 5.7220458984375e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8924062088261746,
+      "predicted": "shipping",
+      "true": "shipping",
+      "time": 6.198883056640625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.92,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 5.0067901611328125e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.92,
+      "predicted": "frontend",
+      "true": "frontend",
+      "time": 9.775161743164062e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.9103781860201002,
+      "predicted": "orders",
+      "true": "orders",
+      "time": 1.0728836059570312e-05
+    },
+    {
+      "correct": false,
+      "confidence": 0.8759780170378477,
+      "predicted": "product-page",
+      "true": "reviews",
+      "time": 8.58306884765625e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.92,
+      "predicted": "currency",
+      "true": "currency",
+      "time": 1.2636184692382812e-05
+    },
+    {
+      "correct": true,
+      "confidence": 0.9007331692987954,
+      "predicted": "payment",
+      "true": "payment",
+      "time": 6.9141387939453125e-06
+    },
+    {
+      "correct": true,
+      "confidence": 0.8701315435592817,
+      "predicted": "mongodb",
+      "true": "mongodb",
+      "time": 8.821487426757812e-06
+    },
+    {
+      "correct": false,
+      "confidence": 0.8884203387970777,
+      "predicted": "payment",
+      "true": "shipping",
+      "time": 7.3909759521484375e-06
+    }
+  ]
+}

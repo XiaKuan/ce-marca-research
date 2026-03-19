@@ -1,0 +1,27 @@
+{
+  "CE-MARCA (Full)": {
+    "top1_accuracy": 0.6666666666666666,
+    "avg_confidence": 0.883172974601218,
+    "num_samples": 18
+  },
+  "CE-MARCA (-Causal)": {
+    "top1_accuracy": 0.6111111111111112,
+    "avg_confidence": 0.7572237371138877,
+    "num_samples": 18
+  },
+  "CE-MARCA (-MultiAgent)": {
+    "top1_accuracy": 0.5555555555555556,
+    "avg_confidence": 0.8453857596053536,
+    "num_samples": 18
+  },
+  "CE-MARCA (-Dynamic)": {
+    "top1_accuracy": 0.7777777777777778,
+    "avg_confidence": 0.8489755225200831,
+    "num_samples": 18
+  },
+  "CE-MARCA (-Diversity)": {
+    "top1_accuracy": 0.6666666666666666,
+    "avg_confidence": 0.8778277329012623,
+    "num_samples": 18
+  }
+}

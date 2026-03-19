@@ -1,0 +1,23 @@
+{
+  "Standard RAG": {
+    "top1_accuracy": 0.4444444444444444,
+    "avg_confidence": 0.6,
+    "avg_analysis_time_sec": 45.0,
+    "avg_tokens": 12500.0,
+    "num_samples": 18
+  },
+  "Graph-RAG": {
+    "top1_accuracy": 0.8333333333333334,
+    "avg_confidence": 0.6999999999999998,
+    "avg_analysis_time_sec": 32.0,
+    "avg_tokens": 8200.0,
+    "num_samples": 18
+  },
+  "CE-MARCA": {
+    "top1_accuracy": 0.7777777777777778,
+    "avg_confidence": 0.6998969335388356,
+    "avg_analysis_time_sec": 8.410877651638455e-06,
+    "avg_tokens": 1399.2222222222222,
+    "num_samples": 18
+  }
+}

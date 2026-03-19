@@ -1,0 +1,18 @@
+{
+  "total_faults": 120,
+  "train_faults": 84,
+  "val_faults": 18,
+  "test_faults": 18,
+  "architectures": [
+    "BookInfo",
+    "SockShop",
+    "OnlineBoutique"
+  ],
+  "fault_types": [
+    "cpu_hog",
+    "memory_leak",
+    "network_latency",
+    "service_error",
+    "cascade_failure"
+  ]
+}

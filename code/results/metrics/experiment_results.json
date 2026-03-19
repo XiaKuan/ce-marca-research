@@ -1,0 +1,542 @@
+[
+  {
+    "fault_id": "onlineboutique_004",
+    "true_root_cause": "recommendation",
+    "predicted_root_cause": "recommendation",
+    "confidence": 0.6588305630541872,
+    "correct": true,
+    "analysis_time": 1.9073486328125e-05,
+    "tokens_used": 1317,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "sockshop_035",
+    "true_root_cause": "cart",
+    "predicted_root_cause": "catalogue",
+    "confidence": 0.6236002528999217,
+    "correct": false,
+    "analysis_time": 1.8596649169921875e-05,
+    "tokens_used": 1247,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_030",
+    "true_root_cause": "cart",
+    "predicted_root_cause": "cart",
+    "confidence": 0.6935424268517756,
+    "correct": true,
+    "analysis_time": 7.62939453125e-06,
+    "tokens_used": 1387,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_015",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "currency",
+    "confidence": 0.658606119777254,
+    "correct": true,
+    "analysis_time": 7.3909759521484375e-06,
+    "tokens_used": 1317,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_014",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "checkout",
+    "confidence": 0.6349956518767582,
+    "correct": false,
+    "analysis_time": 6.9141387939453125e-06,
+    "tokens_used": 1269,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "bookinfo_038",
+    "true_root_cause": "product-page",
+    "predicted_root_cause": "product-page",
+    "confidence": 0.6463579001308272,
+    "correct": true,
+    "analysis_time": 5.4836273193359375e-06,
+    "tokens_used": 1292,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "sockshop_033",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "front-end",
+    "confidence": 0.6464956838443097,
+    "correct": false,
+    "analysis_time": 6.67572021484375e-06,
+    "tokens_used": 1292,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_035",
+    "true_root_cause": "frontend",
+    "predicted_root_cause": "frontend",
+    "confidence": 0.8591403305637828,
+    "correct": true,
+    "analysis_time": 6.9141387939453125e-06,
+    "tokens_used": 1718,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "sockshop_036",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "front-end",
+    "confidence": 0.6204231302484094,
+    "correct": false,
+    "analysis_time": 6.4373016357421875e-06,
+    "tokens_used": 1240,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "sockshop_015",
+    "true_root_cause": "shipping",
+    "predicted_root_cause": "shipping",
+    "confidence": 0.6924062088261747,
+    "correct": true,
+    "analysis_time": 6.4373016357421875e-06,
+    "tokens_used": 1384,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "bookinfo_027",
+    "true_root_cause": "mongodb",
+    "predicted_root_cause": "mongodb",
+    "confidence": 0.7262143505992054,
+    "correct": true,
+    "analysis_time": 5.4836273193359375e-06,
+    "tokens_used": 1452,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_018",
+    "true_root_cause": "frontend",
+    "predicted_root_cause": "frontend",
+    "confidence": 0.8450467353317732,
+    "correct": true,
+    "analysis_time": 8.58306884765625e-06,
+    "tokens_used": 1690,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "sockshop_038",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "orders",
+    "confidence": 0.7103781860201003,
+    "correct": true,
+    "analysis_time": 7.3909759521484375e-06,
+    "tokens_used": 1420,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "bookinfo_028",
+    "true_root_cause": "reviews",
+    "predicted_root_cause": "reviews",
+    "confidence": 0.6759780170378478,
+    "correct": true,
+    "analysis_time": 7.3909759521484375e-06,
+    "tokens_used": 1351,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_020",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "currency",
+    "confidence": 0.846844194981558,
+    "correct": true,
+    "analysis_time": 9.298324584960938e-06,
+    "tokens_used": 1693,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_003",
+    "true_root_cause": "payment",
+    "predicted_root_cause": "payment",
+    "confidence": 0.7007331692987955,
+    "correct": true,
+    "analysis_time": 8.344650268554688e-06,
+    "tokens_used": 1401,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "sockshop_039",
+    "true_root_cause": "mongodb",
+    "predicted_root_cause": "mongodb",
+    "confidence": 0.6701315435592817,
+    "correct": true,
+    "analysis_time": 7.3909759521484375e-06,
+    "tokens_used": 1340,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "sockshop_020",
+    "true_root_cause": "shipping",
+    "predicted_root_cause": "shipping",
+    "confidence": 0.6884203387970778,
+    "correct": true,
+    "analysis_time": 5.9604644775390625e-06,
+    "tokens_used": 1376,
+    "method": "CE-MARCA"
+  },
+  {
+    "fault_id": "onlineboutique_004",
+    "true_root_cause": "recommendation",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_004",
+    "true_root_cause": "recommendation",
+    "predicted_root_cause": "recommendation",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "sockshop_035",
+    "true_root_cause": "cart",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "sockshop_035",
+    "true_root_cause": "cart",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "onlineboutique_030",
+    "true_root_cause": "cart",
+    "predicted_root_cause": "cart",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_030",
+    "true_root_cause": "cart",
+    "predicted_root_cause": "cart",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "onlineboutique_015",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "currency",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_015",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "currency",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "onlineboutique_014",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "currency",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_014",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "bookinfo_038",
+    "true_root_cause": "product-page",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "bookinfo_038",
+    "true_root_cause": "product-page",
+    "predicted_root_cause": "product-page",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "sockshop_033",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "sockshop_033",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "orders",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "onlineboutique_035",
+    "true_root_cause": "frontend",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_035",
+    "true_root_cause": "frontend",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.7,
+    "correct": false,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "sockshop_036",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "orders",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "sockshop_036",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "orders",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "sockshop_015",
+    "true_root_cause": "shipping",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "sockshop_015",
+    "true_root_cause": "shipping",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "bookinfo_027",
+    "true_root_cause": "mongodb",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "bookinfo_027",
+    "true_root_cause": "mongodb",
+    "predicted_root_cause": "mongodb",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "onlineboutique_018",
+    "true_root_cause": "frontend",
+    "predicted_root_cause": "frontend",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_018",
+    "true_root_cause": "frontend",
+    "predicted_root_cause": "frontend",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "sockshop_038",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "sockshop_038",
+    "true_root_cause": "orders",
+    "predicted_root_cause": "orders",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "bookinfo_028",
+    "true_root_cause": "reviews",
+    "predicted_root_cause": "reviews",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "bookinfo_028",
+    "true_root_cause": "reviews",
+    "predicted_root_cause": "reviews",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "onlineboutique_020",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "currency",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_020",
+    "true_root_cause": "currency",
+    "predicted_root_cause": "currency",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "onlineboutique_003",
+    "true_root_cause": "payment",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "onlineboutique_003",
+    "true_root_cause": "payment",
+    "predicted_root_cause": "payment",
+    "confidence": 0.7,
+    "correct": false,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "sockshop_039",
+    "true_root_cause": "mongodb",
+    "predicted_root_cause": "wrong_service",
+    "confidence": 0.6,
+    "correct": false,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "sockshop_039",
+    "true_root_cause": "mongodb",
+    "predicted_root_cause": "mongodb",
+    "confidence": 0.7,
+    "correct": true,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  },
+  {
+    "fault_id": "sockshop_020",
+    "true_root_cause": "shipping",
+    "predicted_root_cause": "shipping",
+    "confidence": 0.6,
+    "correct": true,
+    "analysis_time": 45.0,
+    "tokens_used": 12500,
+    "method": "Standard RAG"
+  },
+  {
+    "fault_id": "sockshop_020",
+    "true_root_cause": "shipping",
+    "predicted_root_cause": "shipping",
+    "confidence": 0.7,
+    "correct": false,
+    "analysis_time": 32.0,
+    "tokens_used": 8200,
+    "method": "Graph-RAG"
+  }
+]
